@@ -1,23 +1,23 @@
 h1 {
-  color: yellowgreen;
+  color: purple;
   text-align: center;
 }
 
 h2 {
   font-style: italic;
   text-align: left;
-  color: teal;
+  color: black;
 }
 
 h3 {
   text-align: left;
-  color: teal;
+  color: hotpink;
 }
 
 p {
-  color: gray;
+  color: brown;
 }
 
 body {
-  background-color: skyblue;
+  background-color: lightpink;
 }
