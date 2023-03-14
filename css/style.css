@@ -1,0 +1,23 @@
+h1 {
+  color: yellowgreen;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: left;
+  color: teal;
+}
+
+h3 {
+  text-align: left;
+  color: teal;
+}
+
+p {
+  color: gray;
+}
+
+body {
+  background-color: skyblue;
+}
